@@ -4,7 +4,7 @@ Manuel Huber
 
 +++
 
-(https://i.ytimg.com/vi/htNfaaLu9aU/maxresdefault.jpg)
+![Surveillance Camera](https://i.ytimg.com/vi/htNfaaLu9aU/maxresdefault.jpg)
 
 +++
 
