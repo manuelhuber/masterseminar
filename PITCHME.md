@@ -1,15 +1,26 @@
-# Test 
+# Erkennung von audiovisuellen Events in Überwachungskameraaufnahmen 
 
-Testtest
+Manuel Huber
+
++++
+
+(https://i.ytimg.com/vi/htNfaaLu9aU/maxresdefault.jpg)
+
++++
+
+![Flux Explained](https://imgs.xkcd.com/comics/machine_learning.png)
 
 ---
 
-### Testy Test
+# AVC-Matrix
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Audio-Video-Concurrency - Matrix
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+TAPPMOG
+
+Time-Adaptive (Per-Pixel) Mixture Of Gaussians
+
++++
+
