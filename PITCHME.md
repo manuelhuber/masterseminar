@@ -12,7 +12,7 @@ Manuel Huber
 
 ---
 
-# AVC-Matrix
+## AVC-Matrix
 
 Audio-Video-Concurrency - Matrix
 
@@ -20,7 +20,7 @@ Audio-Video-Concurrency - Matrix
 
 ---
 
-TAPPMOG
+## TAPPMOG
 
 Time-Adaptive (Per-Pixel) Mixture Of Gaussians
 
