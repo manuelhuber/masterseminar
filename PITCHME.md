@@ -16,7 +16,7 @@ Manuel Huber
 
 Audio-Video-Concurrency - Matrix
 
-+++?image=presentation/overview.png
++++?image=presentation/overview.png&size=auto 90%
 
 ---
 
