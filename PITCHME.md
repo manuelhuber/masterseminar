@@ -28,6 +28,8 @@ Audio-Video-Concurrency - Matrix
 
 ![AVCM1](presentation/avc2.png)
 
++++?image=presentation/AVC-Example.png&size=auto 90%
+
 ---
 
 ## TAPPMOG
