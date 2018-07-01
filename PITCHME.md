@@ -25,19 +25,18 @@ TAPPMOG
 Time-Adaptive (Per-Pixel) Mixture Of Gaussians
 
 +++
-@size[0.75em](
+
 Ist die Gaußverteilung 
 - ein Treffer:
   - Erhöhe Gewichtung, passe Mittelwert an, verringere Standardabweichung
-  - Markiere Messwer als Vordergrund, wenn Summe der Gewichte > T 
+  - Markiere Messwert als Vordergrund, wenn Summe der Gewichte > T 
 - kein Treffer:
   - Verringere Gewichtung
 
 +++ 
   
-Ist keine Gaußverteilung ein Treffer,
+Ist keine Gaußverteilung ein Treffer:
 - Markiere Messwert als Vordergrund
-- Entferne Gaußverteilung mit geringstem Gewicht
-- Füge neue Gaußverteilung um den Messwert hinzu
+- Ersetze Gaußverteilung mit geringstem Gewicht
   
   
