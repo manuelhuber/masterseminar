@@ -16,6 +16,10 @@ Manuel Huber
 
 Audio-Video-Concurrency - Matrix
 
++++
+
+![overview](/presentation/overview.png)
+
 ---
 
 TAPPMOG
