@@ -29,11 +29,12 @@ Time-Adaptive (Per-Pixel) Mixture Of Gaussians
 Vergleiche jeden neuen Messwert mit absteigend mit jeder Gaußverteilung. Ist die Gaußverteilung 
 - ein Treffer:
   - Erhöhe Gewichtung
-  - Passe Mittelwert an
-  - Verringere Standardabweichung
-  - Summiere die Gewichte aller bisherigen Verteilungen. Wenn größer als T markiere Messwert als Vordergrund
+  - Passe Mittelwert an, verringere Standardabweichung
+  - Markiere Messwer als Vordergrund, wenn Summe der Gewichte > T 
 - kein Treffer:
   - Verringere Gewichtung
+
++++  
   
 Ist keine Gaußverteilung ein Treffer,
 - Markiere Messwert als Vordergrund
