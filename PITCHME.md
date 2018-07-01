@@ -18,7 +18,7 @@ Audio-Video-Concurrency - Matrix
 
 +++?image=presentation/overview.png&size=auto 90%
 
-+++?image=presentation/AVC-Coupling.png.png&size=auto 90%
++++?image=presentation/AVC-Coupling.png&size=auto 90%
 
 ---
 
